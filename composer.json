@@ -1,6 +1,1 @@
-{
-  "name": "composer",
-  "require": {
-    "ext-imagick": "*"
-  }
-}
+{ "require": { "ext-imagick": "*", } }
